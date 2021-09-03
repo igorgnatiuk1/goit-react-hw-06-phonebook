@@ -1,0 +1,16 @@
+.list {
+    text-align: center;
+    list-style: none;
+}
+.item{
+    color: red;
+    margin-top: 10px;
+    font-size: x-large;
+}
+.button{
+    color: red;
+    margin-left: 15px;
+    padding: 8px 20px;
+    border-radius: 10px;
+    border-color: red;
+}

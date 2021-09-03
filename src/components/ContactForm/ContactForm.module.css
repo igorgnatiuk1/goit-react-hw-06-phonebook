@@ -1,0 +1,18 @@
+.form {
+    text-align: center;
+}
+.label{
+    margin-right: 20px;
+    color: red;
+}
+.input{
+    margin-left: 10px;
+    border-radius: 15px;
+    border-color: green;
+    padding: 7px;
+}
+.button{
+    padding: 10px 20px;
+    background-color: green;
+    border-radius: 10px;
+}

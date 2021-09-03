@@ -1,0 +1,9 @@
+.input{
+    border-radius: 15px;
+    border-color: green;
+    padding: 7px;
+}
+.label{
+    display: block;
+    text-align: center;
+}
